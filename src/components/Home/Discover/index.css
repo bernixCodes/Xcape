@@ -156,7 +156,8 @@
 
  .row{
     display: flex;
-    gap: 1rem;
+    gap: 0.6rem;
+    margin-top: 0.4rem;
  }
 
  @media screen and (min-width: 700px) {
