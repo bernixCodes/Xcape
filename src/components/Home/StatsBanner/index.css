@@ -40,7 +40,7 @@
 
   .glightbox_video {
     position: absolute;
-    top: 60%;
+    top: 73%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 20;
@@ -123,4 +123,8 @@
     .stats-banner-info h2{
         font-size: 50px;
     }
+    .glightbox_video {
+      top: 60%;
+    
+      }
 }

@@ -24,7 +24,7 @@ const StatsBanner = () => {
         <div className="stats-banner-info">
           <h2>
             Are you ready to <span style={{ color: "#afa062" }}>xcape</span>{" "}
-            with us? Remember us!
+            with us?
           </h2>
           <p>
             Discover the extraordinary with Xcape, where every journey is a
